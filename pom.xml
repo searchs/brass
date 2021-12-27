@@ -7,7 +7,7 @@
 
   <name>API Test Framework using REST Assured </name>
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <rest-assured.version>3.0.3</rest-assured.version>
 
 
